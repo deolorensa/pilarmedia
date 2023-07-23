@@ -3,7 +3,7 @@
 ## 1 Tutorial menjalankan program
 
 ### backend /database 
-1. import sql yang disediakan, dengan nama aksesmu_db
+1. import sql yang disediakan, dengan nama pilarmedia
 2. masuk ke folder backend
 3. lakukan npm install
 4. jika belum pernah menginstal nodemon lakukan || npm install --save-dev nodemon
